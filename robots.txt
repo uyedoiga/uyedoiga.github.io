@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uyedoiga.github.io/gUI/sitemap_index.txt
+Sitemap: https://uyedoiga.github.io/mxX/sitemap_index.txt
+Sitemap: https://uyedoiga.github.io/nEl/sitemap_index.txt
+Sitemap: https://uyedoiga.github.io/rqj/sitemap_index.txt
